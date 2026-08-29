@@ -1,2 +1,2 @@
-# Exercícios Com Java
-*Acompanhe minha evolução na linguagem.*
+# Linguagem Java
+*Acompanhe minha evolução prática na linguagem.*
