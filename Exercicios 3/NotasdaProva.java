@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class NotasdaProva {
     static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.println("Digite a sua nota da prova:");
         double nota= sc.nextDouble();
 
         if(nota >=7 ){
@@ -13,7 +14,7 @@ public class NotasdaProva {
         } else {
             System.out.println("Você está reprovado.");
         }
-       
+
     }
 
 }
