@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc9b2c84-762d-49bc-b0fe-dc62feb5089a" name="Changes" comment="teste 1">
-      <change afterPath="$PROJECT_DIR$/Exercicios 3/Etiqueta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios 3/FraseNaTela.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios 3/TabelaDeNotas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios 3/NotasReversas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios 3/NotasdaProva.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios 3/NotasdaProva.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,61 +45,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="6.5766498170096756E-9" />
-      <entry key="MS500" value="0.02309941300451177" />
-      <entry key="S2" value="0.3919108329359582" />
-      <entry key="S5" value="0.7934943271650049" />
-      <entry key="S10" value="1.319878140634882" />
-      <entry key="S30" value="2.531705809353352" />
-      <entry key="S60" value="3.4874108045065695" />
-      <entry key="M2" value="5.2665869466282755" />
-      <entry key="M5" value="10.999310550850653" />
-      <entry key="M10" value="22.87405591163209" />
-      <entry key="M15" value="34.13974593136625" />
-      <entry key="M30" value="57.52649072345508" />
-      <entry key="H1" value="78.76591553609077" />
-      <entry key="H2" value="93.47980849630946" />
-      <entry key="H4" value="102.20079560441614" />
-      <entry key="D1" value="110.28581036785573" />
-      <entry key="W1" value="111.75304711373792" />
+      <entry key="MS100" value="1.9060955741624505E-47" />
+      <entry key="MS500" value="4.5292775491824595E-10" />
+      <entry key="S2" value="0.004613252583722977" />
+      <entry key="S5" value="0.116309075829462" />
+      <entry key="S10" value="0.3428535859747793" />
+      <entry key="S30" value="0.9577293125623264" />
+      <entry key="S60" value="2.521175613235169" />
+      <entry key="M2" value="6.945411858805908" />
+      <entry key="M5" value="16.33949135283037" />
+      <entry key="M10" value="26.77826888558721" />
+      <entry key="M15" value="36.83328397914452" />
+      <entry key="M30" value="62.04042345968868" />
+      <entry key="H1" value="89.76963167213862" />
+      <entry key="H2" value="111.35516754304011" />
+      <entry key="H4" value="124.98582252782607" />
+      <entry key="D1" value="138.14684968691205" />
+      <entry key="W1" value="140.58763247977683" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000057412028" />
-      <entry key="S2" value="1.0088730981222722" />
-      <entry key="S5" value="1.1874095915266776" />
-      <entry key="S10" value="1.6448627314770474" />
-      <entry key="S30" value="2.725280016758423" />
-      <entry key="S60" value="3.320953849977295" />
-      <entry key="M2" value="4.407675436172349" />
-      <entry key="M5" value="10.945971273012455" />
-      <entry key="M10" value="22.250942035859786" />
-      <entry key="M15" value="30.83370512041365" />
-      <entry key="M30" value="45.99683560523962" />
-      <entry key="H1" value="58.26393990585733" />
-      <entry key="H2" value="66.28536339372899" />
-      <entry key="H4" value="70.90589801411667" />
-      <entry key="D1" value="75.11569336019127" />
-      <entry key="W1" value="75.87277289634333" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000002926135676" />
+      <entry key="S5" value="1.0024351055475758" />
+      <entry key="S10" value="1.0493528754103247" />
+      <entry key="S30" value="1.3912000730068113" />
+      <entry key="S60" value="1.8970269297186704" />
+      <entry key="M2" value="3.065397552800475" />
+      <entry key="M5" value="6.01909021230562" />
+      <entry key="M10" value="12.285673704282939" />
+      <entry key="M15" value="19.526346638436173" />
+      <entry key="M30" value="36.941158339623" />
+      <entry key="H1" value="54.645292465308806" />
+      <entry key="H2" value="67.72535297388299" />
+      <entry key="H4" value="75.75348304022893" />
+      <entry key="D1" value="83.36586763995338" />
+      <entry key="W1" value="84.76415431694682" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="7.240865991234709E-8" />
-      <entry key="MS500" value="0.0531675910800693" />
-      <entry key="S2" value="0.7993438772971584" />
-      <entry key="S5" value="1.604687965077031" />
-      <entry key="S10" value="2.6630532203880932" />
-      <entry key="S30" value="5.067129629512566" />
-      <entry key="S60" value="6.676003275162122" />
-      <entry key="M2" value="9.565412804813862" />
-      <entry key="M5" value="21.841612368612147" />
-      <entry key="M10" value="45.024916849533874" />
-      <entry key="M15" value="64.88087047153292" />
-      <entry key="M30" value="103.4529879397779" />
-      <entry key="H1" value="136.9845877346376" />
-      <entry key="H2" value="159.73917604453163" />
-      <entry key="H4" value="173.0927189564869" />
-      <entry key="D1" value="185.3990255293396" />
-      <entry key="W1" value="187.62546214120556" />
+      <entry key="MS100" value="3.878300951248213E-8" />
+      <entry key="MS500" value="0.03294035707083416" />
+      <entry key="S2" value="0.4291276081067444" />
+      <entry key="S5" value="0.8119821317012874" />
+      <entry key="S10" value="1.2030811264310672" />
+      <entry key="S30" value="2.2536844952075157" />
+      <entry key="S60" value="4.342414057509357" />
+      <entry key="M2" value="9.933896245630784" />
+      <entry key="M5" value="22.28861993253682" />
+      <entry key="M10" value="38.996684835708436" />
+      <entry key="M15" value="56.291810894740266" />
+      <entry key="M30" value="98.92002896975701" />
+      <entry key="H1" value="144.36985593996835" />
+      <entry key="H2" value="179.05263873841736" />
+      <entry key="H4" value="200.72371171235812" />
+      <entry key="D1" value="221.5098559129392" />
+      <entry key="W1" value="225.3513711197786" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -120,6 +118,7 @@
   "keyToString": {
     "Application.Etiqueta.executor": "Run",
     "Application.FraseNaTela.executor": "Run",
+    "Application.NotasReversas.executor": "Run",
     "Application.TabelaDeNotas.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
@@ -146,7 +145,7 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TabelaDeNotas">
+  <component name="RunManager" selected="Application.NotasReversas">
     <configuration name="Etiqueta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Etiqueta" />
       <module name="Exercicios-Diarios-Com-Java" />
@@ -156,6 +155,13 @@
     </configuration>
     <configuration name="FraseNaTela" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FraseNaTela" />
+      <module name="Exercicios-Diarios-Com-Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotasReversas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NotasReversas" />
       <module name="Exercicios-Diarios-Com-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -179,6 +185,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NotasReversas" />
         <item itemvalue="Application.TabelaDeNotas" />
         <item itemvalue="Application.Etiqueta" />
         <item itemvalue="Application.FraseNaTela" />
