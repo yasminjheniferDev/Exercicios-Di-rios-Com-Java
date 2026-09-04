@@ -1,5 +1,5 @@
 
-public class NImparesFor {
+public class NParesFor {
     public static void main(String[] args) {
 
 
